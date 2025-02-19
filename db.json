@@ -1,0 +1,108 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "type": "StandardHouse",
+      "lat": 48.8566,
+      "lon": 2.3522,
+      "price": 250000,
+      "habitableArea": 120,
+      "numberOfBedrooms": 3,
+      "numberOfLivingRooms": 1,
+      "numberOfKitchens": 1,
+      "numberOfBathrooms": 2,
+      "hygieneInstallation": "internal",
+      "parking": true,
+      "constructionMaterials": ["tiles", "staffs"],
+      "equipments": ["internet", "air conditioning"],
+      "deposit": 5000,
+      "images": [
+        "https://placehold.co/600x400/EEE/31343C",
+        "https://placehold.co/600x400/EEE/31343C",
+        "https://placehold.co/600x400/EEE/31343C"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "Apartment",
+      "lat": 48.857,
+      "lon": 2.354,
+      "price": 300000,
+      "habitableArea": 90,
+      "numberOfBedrooms": 2,
+      "numberOfLivingRooms": 1,
+      "numberOfKitchens": 1,
+      "numberOfBathrooms": 1,
+      "hygieneInstallation": "both",
+      "floor": 3,
+      "elevator": true,
+      "balconyOrTerrace": true,
+      "parking": true,
+      "constructionMaterials": ["staffs"],
+      "equipments": ["internet", "furniture"],
+      "deposit": 4000,
+      "images": [
+        "https://placehold.co/600x400/EEE/31343C",
+        "https://placehold.co/600x400/EEE/31343C",
+        "https://placehold.co/600x400/EEE/31343C"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "Villa",
+      "lat": 48.86,
+      "lon": 2.35,
+      "price": 750000,
+      "habitableArea": 300,
+      "numberOfBedrooms": 5,
+      "numberOfLivingRooms": 2,
+      "numberOfKitchens": 1,
+      "numberOfBathrooms": 4,
+      "hygieneInstallation": "internal",
+      "parking": true,
+      "constructionMaterials": ["tiles", "staffs"],
+      "equipments": ["internet", "air conditioning", "home cinema"],
+      "deposit": 10000,
+      "numberOfFloors": 2,
+      "hasSwimmingPool": true,
+      "gardenArea": 500,
+      "hasGuestHouse": true,
+      "hasSecuritySystem": true,
+      "view": "sea",
+      "additionalAmenities": ["sauna", "gym"],
+      "images": [
+        "https://placehold.co/600x400/EEE/31343C",
+        "https://placehold.co/600x400/EEE/31343C",
+        "https://placehold.co/600x400/EEE/31343C"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "Studio",
+      "lat": 48.858,
+      "lon": 2.36,
+      "price": 150000,
+      "habitableArea": 35,
+      "kitchen": "american",
+      "bathroomType": "standard",
+      "images": [
+        "https://placehold.co/600x400/EEE/31343C",
+        "https://placehold.co/600x400/EEE/31343C",
+        "https://placehold.co/600x400/EEE/31343C"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "Land",
+      "lat": 48.859,
+      "lon": 2.37,
+      "price": 100000,
+      "area": 1000,
+      "images": [
+        "https://placehold.co/600x400/EEE/31343C",
+        "https://placehold.co/600x400/EEE/31343C",
+        "https://placehold.co/600x400/EEE/31343C"
+      ]
+    }
+  ]
+}
